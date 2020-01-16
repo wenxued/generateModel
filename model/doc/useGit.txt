@@ -1,0 +1,2 @@
+ git remote add origin git@github.com:wenxued/generateModel.git
+ git push -u origin master
